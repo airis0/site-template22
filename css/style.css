@@ -146,6 +146,10 @@ article, aside, details, figcaption, figure, footer, header, menu, nav, section 
   padding: 0.5em 0em;
 }
 
+#block-content-contact{
+  text-align: center;
+}
+
 @media (max-width: 640px) {
   #wrapper {
     margin: 0px auto;
